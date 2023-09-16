@@ -1,0 +1,118 @@
+---
+object: card
+id: 6907fa19-29ed-4319-8835-68f424c92831
+oracle_id: 2da232d8-580f-4116-b977-2c59cd21b5a4
+multiverse_ids:
+- 25872
+mtgo_id: 15145
+mtgo_foil_id: 15146
+tcgplayer_id: 7812
+cardmarket_id: 3366
+name: Hull Breach
+lang: en
+released_at: '2001-02-05'
+uri: https://api.scryfall.com/cards/6907fa19-29ed-4319-8835-68f424c92831
+scryfall_uri: https://scryfall.com/card/pls/111/hull-breach?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/9/6907fa19-29ed-4319-8835-68f424c92831.jpg?1562916978
+  normal: https://cards.scryfall.io/normal/front/6/9/6907fa19-29ed-4319-8835-68f424c92831.jpg?1562916978
+  large: https://cards.scryfall.io/large/front/6/9/6907fa19-29ed-4319-8835-68f424c92831.jpg?1562916978
+  png: https://cards.scryfall.io/png/front/6/9/6907fa19-29ed-4319-8835-68f424c92831.png?1562916978
+  art_crop: https://cards.scryfall.io/art_crop/front/6/9/6907fa19-29ed-4319-8835-68f424c92831.jpg?1562916978
+  border_crop: https://cards.scryfall.io/border_crop/front/6/9/6907fa19-29ed-4319-8835-68f424c92831.jpg?1562916978
+mana_cost: "{R}{G}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: |-
+  Choose one —
+  • Destroy target artifact.
+  • Destroy target enchantment.
+  • Destroy target artifact and target enchantment.
+colors:
+- G
+- R
+color_identity:
+- G
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 82dc193b-bd5f-4883-a93f-a4155b467ee0
+set: pls
+set_name: Planeshift
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/82dc193b-bd5f-4883-a93f-a4155b467ee0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apls&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pls?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6907fa19-29ed-4319-8835-68f424c92831/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2da232d8-580f-4116-b977-2c59cd21b5a4&unique=prints
+collector_number: '111'
+digital: false
+rarity: common
+flavor_text: '"Crovax knows we''re coming now," said a grinning Sisay. "I just sent
+  the *Predator* crashing into his stronghold."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Brian Snõddy
+artist_ids:
+- 770b4e16-de76-49ed-949f-84e6d2e06d25
+illustration_id: 4fac65aa-a6bc-4c80-aa0b-ff38c817d96e
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1450
+penny_rank: 8850
+prices:
+  usd: '0.73'
+  usd_foil: '15.84'
+  usd_etched: 
+  eur: '0.48'
+  eur_foil: '1.19'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25872
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hull+Breach&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hull+Breach&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hull+Breach
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/7812?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hull+Breach&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/15145?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
